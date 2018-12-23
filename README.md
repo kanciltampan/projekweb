@@ -11,11 +11,11 @@ Andiran R.R 17.83.0015
  * [Index](#labs)
  
 ### Requirement
-* PHP 5.6
-* Mariadb
+PHP 5.6
+Mariadb
 
 ### Import Database
-* Silahkan import file sql.db ke phpmyadmin
+Silahkan import file sql.db ke phpmyadmin
 
 ### Index
-* Silahkan buka **http://localhost/index.php** untuk mengakses web
+Silahkan buka **http://localhost/index.php** untuk mengakses web
