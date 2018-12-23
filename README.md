@@ -1,11 +1,8 @@
 # Final Projek PemrogramanWeb (UAS)
-> Panduannya Pak :D
+> M.Hazri     17.83.0009  
+> Andrian R.R 17.83.0015
 
-M.Hazri     17.83.0009  
-Andrian R.R 17.83.0015
-
-
-## Tata Cara
+## Panduan
 ### Requirement
 PHP 5.6
 
